@@ -158,6 +158,11 @@ p {
     align-items: center;
     justify-content: center;
 }
+.bottom-content-about{
+    
+    margin-top:20px;
+    padding-top:20px;
+}
 
 .bottom-content {
     display: flex;
